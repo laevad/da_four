@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+/* player 1 red */
+.player-1 {
+  background-color: #ff000091;
+}
+
+/* player 2 blue */
+.player-2 {
+  background-color: #0000ff9c;
+}
