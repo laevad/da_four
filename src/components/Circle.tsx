@@ -1,4 +1,4 @@
-export default function Circle({ children, color, handleClick }: { id: number, children: any, color: string, handleClick: any }) {
+export default function Circle({ color, handleClick }: { id: number, children: any, color: string, handleClick: any }) {
   return (
     <div
       onClick={handleClick}
